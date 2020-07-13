@@ -1,0 +1,33 @@
+{
+  "name": "docschina-slugger",
+  "version": "0.1.0",
+  "description": "Generate a slug just like GitHub does for markdown headings.",
+  "main": "index.js",
+  "author": "QC-L <github@liqichang.com>",
+  "license": "MIT",
+  "dependencies": {
+    "emoji-regex": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QC-L/docschina-slugger.git"
+  },
+  "keywords": [
+    "slugger",
+    "remark",
+    "docschina"
+  ],
+  "bugs": {
+    "url": "https://github.com/QC-L/docschina-slugger/issues"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "watch": "tsc -w",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
