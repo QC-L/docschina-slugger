@@ -1,6 +1,6 @@
 {
   "name": "docschina-slugger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate a slug just like GitHub does for markdown headings.",
   "main": "index.js",
   "author": "QC-L <github@liqichang.com>",
